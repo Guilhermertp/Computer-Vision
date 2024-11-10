@@ -1,5 +1,0 @@
-This notebook was created using google colab, to run the model is more efficient to use google GPU and the datasets were unziped in the file.
-Get the data from https://www.kaggle.com/datasets/puneet6060/intel-image-classification
-This data was originally published on https://datahack.analyticsvidhya.com by Intel for the Image Classification Competition.
-
-My model was saved in the file cnn_model.h5 that can be used to run again the 4.CV notebook
